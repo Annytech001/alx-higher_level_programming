@@ -1,4 +1,4 @@
-#!usr/bin/python`iiiiii3
+#!usr/bin/python
 if __name__ == "__main__":
     """Print the addition of all arguments."""
     import sys
