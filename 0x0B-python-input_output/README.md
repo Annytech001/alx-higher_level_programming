@@ -1,0 +1,1 @@
+Input and output (I/O) in Python are essential concepts for interacting with users, reading data from external sources, and writing data to files or other destinations. Python provides several built-in functions and modules for handling I/O operations
