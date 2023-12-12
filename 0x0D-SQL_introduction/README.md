@@ -1,0 +1,1 @@
+SQL, which stands for Structured Query Language, is a standard programming language for managing and manipulating relational databases. It is used for tasks such as retrieving data from a database, updating or inserting data into a database, and creating or modifying database schema (structure)
